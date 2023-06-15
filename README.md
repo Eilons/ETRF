@@ -1,4 +1,4 @@
-# ETRF: Entity and Term Relevance Feedback Dataset
+# ETReF: Entity and Term Relevance Feedback Dataset
 
 The annotated dataset, marked entity mentioned from documents and queries, corpus statistics and the initially retrieved document lists used in our paper **Entity-Based Relevance Feedback for Document Retrieval**.
 
