@@ -14,3 +14,7 @@ The annotated file format is tab-separated as follows:
 
 `<Query Id_Entity Id>`  `<Wikipedia title>` `<context(for the entity + sentence and entity + abstract interfaces)>`  `<Worker Id>` `<annotation>`
 
+## How To Cite Our Paper
+The paper appeared in the ICTIR 2023 proceedings. Please cite our work if you find our paper or dataset useful:
+TBD
+
