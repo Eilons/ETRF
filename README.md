@@ -4,6 +4,9 @@ The annotated dataset, marked entity mentioned from documents and queries, corpu
 
 Using crowdsourcing we collected term and entity relevance feedback for ROBUST and ClueWeb datasets. The resultant annotated dataset is the largest reported in the literature for term relevance feedback, and the first for entity relevance feedback, to the best of our knowledge. We published our annotated dataset, corpus entity statistics and the initial document list for further academic use.
 
+##  Marked Entity Mentions
+You can download full entity annotations for ClueWeb09B and ROBUST datasets using the following [link](https://technionmail-my.sharepoint.com/:f:/g/personal/kurland_technion_ac_il/EgQpKRvvKdNMsMeciTh5-ocB4CRWmj9ryL6GtPM4SDnm-A?e=NsvVId)
+
 ## Data Format
 The annotated file format is tab-separated as follows: 
 
