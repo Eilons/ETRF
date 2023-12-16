@@ -20,5 +20,12 @@ The annotated file format is tab-separated as follows:
 
 ## How To Cite Our Paper
 The paper appeared in the ICTIR 2023 proceedings. Please cite our work if you find our paper or dataset useful:
-TBD
+
+@inproceedings{sheetrit2023entity,
+  title={Entity-Based Relevance Feedback for Document Retrieval},
+  author={Sheetrit, Eilon and Raiber, Fiana and Kurland, Oren},
+  booktitle={Proceedings of the 2023 ACM SIGIR International Conference on Theory of Information Retrieval},
+  pages={177--187},
+  year={2023}
+}
 
